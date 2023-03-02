@@ -43,7 +43,7 @@ function kirim() {
   return false;
 }
 
-const dekatutorial = Swal.mixin({
+const kepo = Swal.mixin({
   imageHeight: 150,
   customClass: {
     popup: "customSweetalert",
